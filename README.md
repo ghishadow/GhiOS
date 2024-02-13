@@ -1,2 +1,2 @@
 # GhiOS
-Operating System for fun
+Operating System in zig
